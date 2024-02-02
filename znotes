@@ -1,0 +1,3 @@
+npm install --save react-router socket.io-client
+npm install react-scroll-to-bottom react-emoji query-string
+ npm i cors express socket.io
